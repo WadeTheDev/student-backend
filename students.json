@@ -1,0 +1,43 @@
+[
+    {
+        "name": "walid",
+        "lastName": "belkassmi",
+        "age": 24
+    },
+    {
+        "name": "Dushen",
+        "lastName": "Manikbowe",
+        "age": 22
+    },
+    {
+        "name": "Rayane",
+        "lastName": "Onizuka",
+        "age": 23
+    },
+    {
+        "name": "Emad",
+        "lastName": "Mustafa",
+        "age": 32
+    },
+    {
+        "name": "Alice",
+        "lastName": "Florez",
+        "age": 24
+    },
+    {
+        "name": "Benoit",
+        "lastName": "Paquier",
+        "age": 28
+    },
+    {
+        "name": "Julie",
+        "lastName": "Desvaux",
+        "age": 37
+    },
+    {
+        "name": "Jad",
+        "lastName": "Aroussi",
+        "age": 24
+    }
+    
+]
